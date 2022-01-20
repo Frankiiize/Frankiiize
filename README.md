@@ -15,5 +15,5 @@
       coffe.drinks();
     }
     console.log(body.caffeine);
-- }
+}
 
