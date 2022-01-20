@@ -8,7 +8,7 @@
    "linkedin": https://www.linkedin.com/in/francisco-jimenez-ramirez-363894a9/ ,
  }
 - ⚡ Fun fact = {
-    if(!coffe.empty){
+    if(!!coffe){
       coffe.refill();  
     }
     else {
