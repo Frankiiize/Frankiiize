@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello World ! I'm Frank, a Frontend developer based in Chile. 
 
-<!--
-**Frankiiize/Frankiiize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on = {
+    Im Avalible
+- }
+- 🌱 I’m currently learning = {
+    React.Js : It's my first FrameWork JS and i love it
+- }
+- 👯 I’m looking to collaborate on = () => {
+   return ' i'd like collaborate on some startup! '
+- }
+- 📫 How to reach me = {
+   "email": Frankiiize@gmail.com ,
+   "linkedin": https://www.linkedin.com/in/francisco-jimenez-ramirez-363894a9/ ,
+- }
+- ⚡ Fun fact = {
+    if(!coffe.empty){
+      coffe.refill();  
+    }
+    else {
+      coffe.drinks();
+    }
+    console.log(body.caffeine);
+- }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
