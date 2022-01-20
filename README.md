@@ -7,8 +7,9 @@
    "email": Frankiiize@gmail.com ,
    "linkedin": https://www.linkedin.com/in/francisco-jimenez-ramirez-363894a9/ ,
  }
-- ⚡ Fun fact = {
-    if(!!coffe){
+- ⚡ Fun fact = 
+```javaScript
+if(!!coffe){
       coffe.refill();  
     }
     else {
@@ -16,4 +17,4 @@
     }
     console.log(body.caffeine);
 }
-
+```
