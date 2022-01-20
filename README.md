@@ -25,7 +25,7 @@ if(!!coffe){
 <a href="https://twitter.com/frankiiize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frankiiize" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/francisco-jimenez-ramirez-363894a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-jimenez-ramirez-363894a9" height="30" width="40" /></a>
 <a href="https://fb.com/frankiiize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frankiiize" height="30" width="40" /></a>
-<a href="https://instagram.com/frankiiize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frankiiize" height="30" width="40" /></a>
+<a href="https://instagram.com/frankiize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frankiiize" height="30" width="40" /></a>
 <a href="https://www.behance.net/frankiiize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="frankiiize" height="30" width="40" /></a>
 </p>
 
