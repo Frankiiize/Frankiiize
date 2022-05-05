@@ -10,7 +10,7 @@
 - 📫 How to reach me **Frankiiize@gmail.com**
 - ⚡ Fun fact =
 ```javaScript
-if(!!coffe){
+if(!coffe){
       coffe.refill();  
     }
     else {
