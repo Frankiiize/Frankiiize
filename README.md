@@ -8,17 +8,7 @@
 - 👯 I’m looking to collaborate on **{ every frontend project }**
 
 - 📫 How to reach me **Frankiiize@gmail.com**
-- ⚡ Fun fact =
-```javaScript
-if(!coffe){
-      coffe.refill();  
-    }
-    else {
-      coffe.drinks();
-    }
-    console.log(body.caffeine);
-}
-```
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
