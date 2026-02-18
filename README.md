@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
 <h3 align="center">Frontend Developer passionate about technology and programming. Always willing to improve and produce better code with each commit. I never stop learning!</h3>
 
-- 🔭 I’m currently working on **{ I'm Available }**
+- 🔭 I’m currently working on **{ Entel }** 
 
-- 🌱 I’m currently learning **{ React.Js : It's my first FrameWork JS and i love it }**
-
-- 👯 I’m looking to collaborate on **{ every frontend project }**
+- 🌱 Master **{ React.Js }**
 
 - 📫 How to reach me **Frankiiize@gmail.com**
 
