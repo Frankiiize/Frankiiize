@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
 <h3 align="center">Frontend Developer passionate about technology and programming. Always willing to improve and produce better code with each commit. I never stop learning!</h3>
 
-- 🔭 I’m currently working on **{ Entel }** 
 
 - 🌱 Master **{ React.Js }**
 
